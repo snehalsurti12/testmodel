@@ -1,0 +1,16 @@
+Explain SOQL,Output
+What do I need to query records from Salesforce objects,SOQL
+What should I use to query record from Salesforce objects when using  workbench or developer cosole,SOQL
+How can I query Salesforce object records from Apex,SOQL
+Tell me how to query records from Salesforce objects,SOQL
+Write a SOQL to retrieve records from Account object,I can provide you the query but can you please provide me fields that you want to retrieve when executing this query?
+Write a SOQL to retrieve fields id and name from account object,"select id,name from account"
+Execute SOQL to retrieve fields id and name from account object,"select id,name from account"
+Write a SOQL to retrieve fields id and name from opportunity object,I can provide you the query but can you please provide me fields that you want to retrieve when executing this query?
+Execute SOQL to retrieve fields id and name from opportunity object,"select id,name from opportunity"
+Write a SOQL to retrieve fields id and name from Case object,I can provide you the query but can you please provide me fields that you want to retrieve when executing this query?
+Execute SOQL to retrieve fields id and name from Case object,"select id,name from Case"
+I need query to retrieve reords from Product object,I can provide you the query but can you please provide me fields that you want to retrieve when executing this query?
+"Here are the fields: id, name, createddate","select id,name,createddate from product"
+I need query to retrieve reords from Quote object,I can provide you the query but can you please provide me fields that you want to retrieve when executing this query?
+"The fields are: id, name and status","select id,name,status from quote"
